@@ -1,0 +1,86 @@
+[
+ {
+    "id" :"1"  ,
+    "nombre" :"budin de zanahoria" ,
+    "descripcion": "budin sin azucar " ,
+    "precio":300 ,
+    "img": "/img/budin.jpg"
+ },
+ {
+    "id" : "2" ,
+    "nombre" : "budin de vainilla" ,
+    "descripcion": "budin con azucar" ,
+    "precio": 400 ,
+    "img":"/img/budin.jpg" 
+ },
+ {
+    "id" :"3"  ,
+    "nombre" : "budin de chocolate",
+    "descripcion":"budin con saborizante" ,
+    "precio": 400 ,
+    "img": "/img/budin.jpg"
+ },
+ {
+    "id" : "4" ,
+    "nombre" : "budin tradicional",
+    "descripcion": "budin clasico",
+    "precio":200 ,
+    "img": "/img/budin.jpg"
+ },
+ {
+    "id" : "5" ,
+    "nombre" : "torta de chocolate",
+    "descripcion":"hecho con cacao amargo" ,
+    "precio":1000 ,
+    "img": "/img/TortaArtesanal.jpg"
+ },
+ {
+    "id" : "6" ,
+    "nombre" : "torta de durazno",
+    "descripcion":"con duraznos en lata" ,
+    "precio":1200 ,
+    "img":"/img/TortaArtesanal.jpg" 
+ },
+ {
+    "id" : "7" ,
+    "nombre" :"torta dulce de leche" ,
+    "descripcion": "dulce de leche nacional",
+    "precio":1500 ,
+    "img": "/img/TortaArtesanal.jpg"
+ },
+ {
+    "id" :"8"  ,
+    "nombre" : "torta de frutila",
+    "descripcion":"con frutillas en azucar" ,
+    "precio": 1500,
+    "img":"/img/TortaArtesanal.jpg" 
+ },
+ {
+    "id" : "9" ,
+    "nombre" :"alfajores  chocolate" ,
+    "descripcion": "chocolate x 12",
+    "precio":600 ,
+    "img":"/img/Alfajores.jpg" 
+ },
+ {
+    "id" :"10"  ,
+    "nombre" :"alfajores blancos" ,
+    "descripcion": "chocolate blanco x 12" ,
+    "precio":600 ,
+    "img":"/img/Alfajores.jpg" 
+ },
+ {
+    "id" : "11" ,
+    "nombre" : "alfajores de frutas",
+    "descripcion":"con relleno frutal x 12" ,
+    "precio": 600,
+    "img":"/img/Alfajores.jpg" 
+ },
+ {
+    "id" : "12" ,
+    "nombre" : "alfajores de maicena",
+    "descripcion": "con ralladura de coco x 12",
+    "precio":600 ,
+    "img":"/img/Alfajores.jpg" 
+ }
+]
